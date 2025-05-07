@@ -1,6 +1,6 @@
 [![Coverage Status](https://coveralls.io/repos/github/kbhattac/CoolRetailer/badge.svg?branch=master)](https://coveralls.io/github/kbhattac/CoolRetailer?branch=master) [![Build Status](https://travis-ci.org/kbhattac/coolretailer.svg?branch=master)](https://travis-ci.org/kbhattac/coolretailer) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # CoolRetailer
-### Microservices application with Istio, gRPC, Redis, BigQuery, Spring Boot, Spring Cloud and Stackdriver
+### Microservices application with Istio, gRPC, Redis, BigQuery, Spring Boot, Spring Cloud and Cloud Operations Suite
 - Smart product finder with autocomplete feature
 - Distributed Stackdriver Tracing with Log correlation across gRPC calls
 - Istio based Stackdriver Service Monitoring
